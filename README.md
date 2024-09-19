@@ -1,0 +1,2 @@
+# WindowsBatRandomPassGene
+psとbatだけでデスクトップ上でダブルクリックするだけでパスワードが作れるアプリ
